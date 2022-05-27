@@ -6,7 +6,7 @@ require_relative 'enemy'
 player_img = Image.load("image/player.png")
 enemy_img = Image.load("image/enemy.png")
 
-player = Player.new(100, 100, player_img)
+player = Player.new(150, 150, player_img)
 enemies = []
 10.times do
   enemies << Enemy.new(rand(0..(640 - 32 - 1)), rand((480 - 32 - 1)), enemy_img)
