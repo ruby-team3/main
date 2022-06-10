@@ -1,0 +1,26 @@
+[33mcommit 4d66ff670d7186a8623b901c6dad5d448233ff45[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c6113a5 9a1feec
+Author: morikawa-keigo <105479360+morikawa-keigo@users.noreply.github.com>
+Date:   Fri May 27 15:44:31 2022 +0900
+
+    Merge pull request #1 from ruby-team3/test
+    
+    プレイヤーの初期位置を移動しました
+
+[33mcommit 9a1feec8888a16f89730e7cd048adccd351acc85[m
+Author: AK0453 <aknoon.0453@gmail.com>
+Date:   Fri May 27 15:37:40 2022 +0900
+
+    プレイヤーの初期位置を移動しました
+
+[33mcommit c6113a505760b9320381a847cfc5d60a88cc43ed[m
+Author: AK0453 <aknoon.0453@gmail.com>
+Date:   Fri May 27 15:18:31 2022 +0900
+
+    ベースになるゲームを追加しました
+
+[33mcommit 42c57ffba14283cb22be8718099524ac5f7bb514[m
+Author: AkinagaShogo <85738610+AkinagaShogo@users.noreply.github.com>
+Date:   Fri May 20 16:25:46 2022 +0900
+
+    Initial commit
