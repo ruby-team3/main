@@ -1,4 +1,4 @@
-class Trash < Sprite
+class Item < Sprite
     def hit
       self.vanish
       GAME_INFO[:score] += 10
